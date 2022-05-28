@@ -6,6 +6,7 @@ FormSpace è il nuovo social newtwork che punta all'aiuto reciproco tra gli uten
 Hai qualche dubbio? Non sei sicuro su come si faccia un integrale triplo? Niente paura, basta chiedere! 
 
 ## Features
+![Screenshot](homepage-mobile.png) 
 
 - Possibilità di registrarsi in tutta sicurezza, le tue password saranno criptate in codice hash
 - Design moderno e veloce da utilizzare (mia nonna approva!)
