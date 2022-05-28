@@ -1,0 +1,170 @@
+:root{
+  --dark-color-lightness: 17%;
+  --light-color-lightness: 95%;
+  --white-color-lightness: 100%;
+  --color-black-lightness:10%;
+
+  --color-white: hsl(252, 30%, var(--white-color-lightness));
+  --color-dark: hsl(252, 30%, var(--dark-color-lightness));
+  --color-light: hsl(252, 30%, var(--light-color-lightness));
+
+  --color-gray: hsl(252, 15%, 65%);
+  --color-primary: hsl(29, 75%, 60%);
+  --color-secondary: hsl(29, 75%, 60%);
+
+  --color-success: hsl(120, 95%, 65%);
+  --color-danger: hsl(0, 95%, 65%);
+
+
+  --color-black: hsl(252, 30%, var(--color-black-lightness));
+
+  --border-radius: 2rem;
+  --card-border-radius: 1rem;
+  --btn-padding: 0.6rem 2rem;
+  --search-padding: 0.6rem 1rem;
+  --card-padding: 1rem;
+
+  --sticky-top-left: 5.4rem;
+  --sticky-top-right: -18rem;
+}
+
+img.imgSpotify {
+    border-radius: var(--border-radius);
+    width: 140%;
+    margin-top:25px;
+    margin-right:5px;
+    margin-bottom: 22px;
+    box-shadow: 10px 10px 25px -10px #1d0dca17;
+}
+
+.all {
+  display: flex;
+width: 94%;
+flex-direction: column;
+}
+
+form#search {
+    width: 125%;
+}
+
+article#view {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+.titleSpotify {
+    margin-left: 24%;
+    font-size: 2rem;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.author {
+    font-size: 1.2rem;
+    margin-left: 24%;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.info {
+    margin-top: 0;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a.link {
+    font-size: 1.1rem;
+    width: 127%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: -1%;
+    background: var(--color-primary);
+    color: white;
+    border-radius: var(--border-radius);
+    padding: var(--card-padding);
+    box-shadow: 10px 10px 25px -10px #1d0dca17;
+}
+
+.title-spotify {
+    text-align: center;
+}
+
+.descrizione-spotify {
+    text-align: center;
+    font-size: 1rem;
+}
+
+input#text {
+    width: 65%;
+    margin-top: 5%;
+}
+
+input#text {
+    width: 58%;
+    margin-top: 5%;
+    border-radius: 10px;
+    border: 1px rgb(38, 38, 38) solid;
+    padding: 10px 10px 10px 10px;
+    font-size: 1.1em;
+    background-color: rgba(211, 211, 211, .4);
+    margin-right: 2%;
+    box-shadow: 10px 10px 25px -10px #1d0dca17;
+}
+
+input#send {
+    border-radius: 10px;
+    border: 1px rgb(38, 38, 38) solid;
+    padding: 10px 10px 10px 10px;
+    font-size: 1.1em;
+    background-color: rgba(211, 211, 211, .4);
+    box-shadow: 10px 10px 25px -10px #1d0dca17;
+}
+
+.post-spotify {
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    background: var(--color-white);
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+    margin: 1rem;
+    margin-left: -0.8000000000000007rem;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+@media screen and (max-width: 1200px){
+  .post-spotify {
+ width: 75%;
+ display: flex;
+ flex-direction: column;
+ background: var(--color-white);
+ border-radius: var(--card-border-radius);
+ padding: var(--card-padding);
+ margin: 1rem;
+ margin-left: 4.200000000000003rem;
+ font-size: 0.85rem;
+ line-height: 1.5;
+}
+
+.titleSpotify {
+    margin-left: 3%;
+    font-size: 2rem;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+.author {
+    font-size: 1.2rem;
+    margin-left: 0%;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+}
+
+@media screen and (max-width: 992px){
+
+  .post-spotify {
+    display:none;
+  }
+}
