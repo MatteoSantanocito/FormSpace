@@ -8,7 +8,6 @@ Hai qualche dubbio? Non sei sicuro su come si faccia un integrale triplo? Niente
 ## Features
 ![screenshot](screenshot/homepage-mobile.png) 
 
-- Possibilità di registrarsi in tutta sicurezza, le tue password saranno criptate in codice hash
 - Design moderno e veloce da utilizzare (mia nonna approva!)
 - Lascia un commento per aiutare qualche utente in difficoltà
 - La versione 2.0 ha portato una grossa novità (utile?): la possibilità di cercare comodamente qualsiasi canzone inserendo il titolo o l'artista! 
