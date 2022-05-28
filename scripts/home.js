@@ -23,30 +23,6 @@ function closePostForm(event){
     overlay.classList.add("hidden")
 }
 
-function onJsonWeather(json){
-    const hour = json.current.last_updated.slice(11, 13)
-    const weatherInfo = json.current.condition.text + ', ' + json.current.temp_c + '°C'
-    const icon = json.current.condition.icon
-    const city = json.location.name
-
-    const h1 = document.querySelector("#momentOfDay")
-    if(hour < 12) {
-        h1.textContent = "Buongiorno"
-    } else {
-        h1.textContent = "Buonasera"
-    }
-
-    const h2 = document.querySelector("#weather_info h2")
-    h2.textContent = city
-
-    const p = document.querySelector("#weather_info p")
-    p.textContent = weatherInfo
-
-    const img = document.querySelector("#weather_info img")
-    img.src = "http:"+icon
-
-}
-
 function createPost(json){
     const article = document.querySelector("article")
 
