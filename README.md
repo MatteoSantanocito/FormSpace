@@ -1,12 +1,12 @@
 # Homework 1 - Santanocito Matteo - 10000001955
 ## FormSpace - il social non è mai stato così utile!
-![Screenshot](homepage1.png) 
+![screenshot](homepage1.png) 
 
 FormSpace è il nuovo social newtwork che punta all'aiuto reciproco tra gli utenti. 
 Hai qualche dubbio? Non sei sicuro su come si faccia un integrale triplo? Niente paura, basta chiedere! 
 
 ## Features
-![Screenshot](homepage-mobile.png) 
+![screenshot](homepage-mobile.png) 
 
 - Possibilità di registrarsi in tutta sicurezza, le tue password saranno criptate in codice hash
 - Design moderno e veloce da utilizzare (mia nonna approva!)
