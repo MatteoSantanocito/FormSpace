@@ -50,22 +50,6 @@
 
               </div>
 
-
-              <!--
-                <div id="title">
-                    <img src="./images/kiwi.jpg" id="logo">
-                    <h1>Login</h1>
-                </div>
-                <form name="login_form" method="post">
-                    <input type="text" name="username" placeholder="Username">
-                    <input type="password" name="password" placeholder="Password">
-
-
-                    <input id="login_button" type="submit" value="Accedi" >
-                </form>
-                <p>Non sei registrato? <a href="signup.php">Registrati</a></p>
-              -->
-
         </article>
     </body>
 </html>
