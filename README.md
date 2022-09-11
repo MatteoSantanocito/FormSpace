@@ -1,19 +1,18 @@
-# Homework 1 - Santanocito Matteo - 10000001955
-## FormSpace - il social non è mai stato così utile!
+# FormSpace - Santanocito Matteo
+## Social media has never been so useful!
 ![screenshot](screenshot/homepage1.png) 
 
-FormSpace è il nuovo social newtwork che punta all'aiuto reciproco tra gli utenti. 
-Hai qualche dubbio? Non sei sicuro su come si faccia un integrale triplo? Niente paura, basta chiedere! 
+Form Space is the new social network that aims at mutual help between users. Do you have any doubts? Not sure how to make a triple integral? Don't worry, just ask!
 
 ## Features
 ![screenshot](screenshot/homepage-mobile.png) 
 
-- Design moderno e veloce da utilizzare (mia nonna approva!)
-- Lascia un commento per aiutare qualche utente in difficoltà
-- La versione 2.0 ha portato una grossa novità (utile?): la possibilità di cercare comodamente qualsiasi canzone inserendo il titolo o l'artista! 
-Ti secchi a cercarla su Spotify? Niente paura! Basta cliccare un pulsante e verrai automaticamente reindirizzato sul sito di Spotify
-- Non sei soddisfatto? In 2 settimane che ti aspettavi? Sono solo, non ho mica un team di sviluppo come Facebook!
+- Modern and quick to use design (my grandmother approves!)
+- Leave a comment to help any users in trouble
+- Version 2.0 has brought a big news (useful?): The possibility to search comfortably any song by entering the title or the artist!
+Do you mind looking for it on Spotify? No fear! Just click a button and you will be automatically redirected to the Spotify site
+- Not satisfied? What did you expect in only 1 weeks? I'm alone, I don't have a development team like Facebook!
 
 ## Licenza
 
-**Il sito è gratuito, puoi rubarlo tranquillamente!**
+**The site is free, you can easily steal it!**
